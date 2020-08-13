@@ -12,6 +12,8 @@ UniFi Poller up and running. Including InfluxDB, Grafana, and
 Chronograph. This last app is useful to inspect the data stored
 in InfluxDB by UniFi Poller.
 
+<b> MAKE SURE TO CHANGE THE VALUES IN THE .env file as well as /datasources/unifi.yml</b>
+
 ##### HOWTO
 **Learn more about how and when to use these *Docker Compose* files in the
 [Docker Wiki](https://github.com/unifi-poller/unifi-poller/wiki/Docker).**
